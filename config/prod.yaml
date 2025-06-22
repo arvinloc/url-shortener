@@ -1,5 +1,5 @@
 env: "prod" #local, dev, prod
-dsn: "postgres://postgres:root@localhost:5432/shortener"
+dsn: "postgres://<username>:<password>@localhost:5432/<db_name>"
 http_server:
   address: "localhost:8082"
   timeout: 4s
