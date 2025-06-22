@@ -1,0 +1,13 @@
+
+/bin/
+/pkg/
+
+
+.idea/
+.vscode/
+
+
+config/local.yaml
+
+
+go.sum
